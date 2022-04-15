@@ -2,7 +2,7 @@ import { FlexMessage, TextMessage } from '@line/bot-sdk'
 
 export const msgOther: TextMessage = {
   type: 'text',
-  text: 'テキスト以外のメッセージを受信しました'
+  text: 'テキスト入りの画像を送信すると文字起こしするよ。'
 }
 
 export const msgError: FlexMessage = {
