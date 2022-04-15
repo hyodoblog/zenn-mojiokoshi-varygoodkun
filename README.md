@@ -1,12 +1,6 @@
-# line-bot-typescript-template
+# zenn-mojiokoshi-varygoodkun
 
-LINE Bot + TypeScript + Firebase Functions のテンプレート  
-オウム返しボットです。
-
-## 初期設定
-
-1. .firebaserc ファイルを設定
-2. functions/.env.expample をもとに.env ファイルを作成&設定
+『LINE 文字起こしボット「文字起こしばりぐっどくん」を作ってみよう！』のソースコード
 
 ## デプロイ
 
