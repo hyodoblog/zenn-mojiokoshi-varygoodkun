@@ -5,6 +5,11 @@ export const msgOther: TextMessage = {
   text: 'テキスト入りの画像を送信すると文字起こしするよ。'
 }
 
+export const msgNotText: TextMessage = {
+  type: 'text',
+  text: '画像の中にテキストが見つからなかったよ。。。'
+}
+
 export const msgError: FlexMessage = {
   type: 'flex',
   altText: 'エラーが発生しました',
